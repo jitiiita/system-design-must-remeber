@@ -1,4 +1,4 @@
-#Golden Rule
+# Golden Rule
 ##If we are dealing with a read-heavy system, it's good to consider using a Cache.
 ##If we need low latency in the system, it's good to consider using a Cache & CDN.
 ##If we are dealing with a write-heavy system, it's good to use a Message Queue for async processing
